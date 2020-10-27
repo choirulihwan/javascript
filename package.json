@@ -1,0 +1,26 @@
+{
+  "name": "fundamental-js",
+  "version": "1.0.0",
+  "description": "javascript repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choirulihwan/javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "choirul ihwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choirulihwan/javascript/issues"
+  },
+  "homepage": "https://github.com/choirulihwan/javascript#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
